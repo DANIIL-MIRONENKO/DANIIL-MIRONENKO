@@ -1,0 +1,78 @@
+ 
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Эд Ширан - Выдающийся артист</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #ff6f61;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #ff6f61;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        .image-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Эд Ширан</h1>
+        <p>Выдающийся артист</p>
+    </header>
+    <main>
+        <section>
+            <div class="image-container">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Ed_Sheeran-6886_%28cropped%29.jpg" alt="Эд Ширан">
+            </div>
+            <p>Эдвард Кристофер Ширан (родился 17 февраля 1991 года в Галифаксе, Уэст-Йоркшир, Англия) — британский певец, автор песен, гитарист и музыкальный продюсер. Он известен своими душевными текстами, мелодичными песнями и уникальным стилем, который сочетает элементы поп-музыки, фолка и акустического рока.</p>
+        </section>
+        <section>
+            <h2>Ранние годы и начало карьеры</h2>
+            <p>Эд Ширан начал интересоваться музыкой с раннего возраста, научился играть на гитаре и начал писать свои собственные песни еще в детстве. В подростковом возрасте он переехал в Лондон, чтобы сосредоточиться на своей музыкальной карьере. Он выпустил несколько независимых мини-альбомов и начал выступать на небольших площадках, что постепенно принесло ему известность.</p>
+        </section>
+        <section>
+            <h2>Прорыв и успех</h2>
+            <p>В 2011 году Ширан выпустил свой дебютный студийный альбом "+", который включал хиты "The A Team" и "Lego House". Альбом получил положительные отзывы критиков и коммерческий успех, сделав Ширана международной звездой.</p>
+            <p>В 2014 году вышел его второй альбом "x" (произносится как "multiply"), который укрепил его позиции в музыкальной индустрии. Синглы "Sing" и "Thinking Out Loud" стали мировыми хитами, а сам альбом был номинирован на множество престижных наград.</p>
+            <p>Его третий альбом "÷" (произносится как "divide"), выпущенный в 2017 году, включал такие мегахиты, как "Shape of You" и "Castle on the Hill". Этот альбом стал одним из самых продаваемых в мире, а Ширан получил множество наград, включая несколько премий "Грэмми".</p>
+        </section>
+        <section>
+            <h2>Личная жизнь</h2>
+            <p>В 2019 году 
+     </head> 
+  </html> 
